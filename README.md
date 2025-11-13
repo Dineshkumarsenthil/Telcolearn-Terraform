@@ -34,8 +34,10 @@ Network timeout while downloading Terraform	Checked EC2 security group outbound 
 
 ✅ Verification
 To verify installation:
+
 terraform -version
-Output example:
+
+Output:
 nginx
 Terraform v1.9.7
 on linux_amd64
